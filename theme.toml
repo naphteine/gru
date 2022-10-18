@@ -1,0 +1,13 @@
+name = "gru"
+license = "MIT"
+licenselink = "https://github.com/gguilt/gru/blob/master/LICENSE"
+description = "Gru theme for Hugo"
+homepage = "https://github.com/gguilt/gru/"
+demosite = "https://blog.gguilt.com"
+tags = ["blog", "plain", "development"]
+features = ["blog"]
+min_version = "0.20"
+
+[author]
+  name = "gguilt"
+  homepage = "https://github.com/gguilt"
